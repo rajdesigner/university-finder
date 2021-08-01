@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/university-finder/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/university-finder/static/js/main.2def781f.chunk.js",
+    "main.js.map": "/university-finder/static/js/main.2def781f.chunk.js.map",
+    "runtime-main.js": "/university-finder/static/js/runtime-main.6c4882a2.js",
+    "runtime-main.js.map": "/university-finder/static/js/runtime-main.6c4882a2.js.map",
+    "static/css/2.4be38407.chunk.css": "/university-finder/static/css/2.4be38407.chunk.css",
+    "static/js/2.e886f7e4.chunk.js": "/university-finder/static/js/2.e886f7e4.chunk.js",
+    "static/js/2.e886f7e4.chunk.js.map": "/university-finder/static/js/2.e886f7e4.chunk.js.map",
+    "static/js/3.b093c9c7.chunk.js": "/university-finder/static/js/3.b093c9c7.chunk.js",
+    "static/js/3.b093c9c7.chunk.js.map": "/university-finder/static/js/3.b093c9c7.chunk.js.map",
+    "index.html": "/university-finder/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/university-finder/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/university-finder/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e886f7e4.chunk.js.LICENSE.txt": "/university-finder/static/js/2.e886f7e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c4882a2.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.e886f7e4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2def781f.chunk.js"
+  ]
+}
